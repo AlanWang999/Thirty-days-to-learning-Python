@@ -4,3 +4,7 @@ python --version
 # Some simple calculate 
 4+8
 8*6
+238-68
+39/2
+34%2
+934//35
